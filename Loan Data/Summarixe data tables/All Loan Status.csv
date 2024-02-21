@@ -1,0 +1,8 @@
+"count of loan Status",loan_status
+230432,Current
+42431,"Fully Paid"
+2640,"In Grace Period"
+6358,"Late (31-120 days)"
+1532,"Late (16-30 days)"
+9302,"Charged Off"
+10,Default
